@@ -3,6 +3,8 @@ package org.example;
 import com.mongodb.client.*;
 import org.bson.Document;
 import com.google.gson.Gson;
+
+import javax.print.Doc;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -68,18 +70,29 @@ public class ConnectToMongo {
         for (Document document : documents) {
             String json = document.toJson();
             Data data = gson.fromJson(json,Data.class);
-            System.out.println(data.getWord());
             ldata.add(data);
         }
         return ldata;
     }
+    public static void addWord(String namedata) {
+        MongoClient client  = MongoClients.create("mongodb+srv://testUser:vQpzsyz66a0Dbhvi@cluster0.hgbp0kr.mongodb.net/?retryWrites=true&w=majority");
+        MongoDatabase db  = client.getDatabase("TestJava");
+        MongoCollection<Document> collection = db.getCollection(namedata);
+        FindIterable<Document> documents = collection.find();
+        int cnt = 0;
+        for(Document doc : documents) {
+            cnt++;
+        }
+        cnt++;
+        Document document = new Document("_id","ew2").append("id",cnt).append("word","chetchamdu").append("html","").append("des","lachetchamdu").append("pro","");
+        collection.insertOne(document);
+    }
     public static void main(String[] args) {
+        //thay ten database lan luot la : Congnghethontin,Dientu,TestJson,ThanhNgu,Ykhoa
         Scanner scan = new Scanner(System.in);
         List<Data> ldata = getData("Ykhoa");
-        for(int i = 0 ; i < 10; i ++) {
-            System.out.println(ldata.get(i).getWord());
-            System.out.println(ldata.get(i).getDes());
-        }
+        System.out.println(ldata.size());
+        System.out.println(ldata.get(223).getWord());
 
     }
 }
