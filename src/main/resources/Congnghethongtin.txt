@@ -1,0 +1,165 @@
+Multiplication: Phép nhân
+Numeric: Số học, thuộc về số học
+Operation: Thao tác
+Output: Ra, đưa ra
+Perform: Tiến hành, thi hành
+Process: Xử lý
+Processor: Bộ xử lý
+Pulse: Xung
+Register: Thanh ghi, đăng ký
+Signal: Tín hiệu
+Solution: Giải pháp, lời giải
+Store: Lưu trữ
+Subtraction: Phép trừ
+Switch: Chuyển
+Tape: Ghi băng, băng
+Terminal: Máy trạm
+Transmit: Truyền
+Abacus: Bàn tính
+Allocate: Phân phối
+Analog: Tương tự
+Application: Ứng dụng
+Binary: Nhị phân, thuộc về nhị phân
+Calculation: Tính toán
+Command: Ra lệnh, lệnh (trong máy tính)
+Dependable: Có thể tin cậy được
+Devise: Phát minh
+Different: Khác biệt
+Digital: Số, thuộc về số
+Etch: Khắc axit
+Experiment: Tiến hành thí nghiệm, cuộc thí nghiệm
+Remote Access: Truy cập từ xa qua mạng
+Computerize: Tin học hóa
+Storage: lưu trữ
+Figure out: Tính toán, tìm ra
+Generation: Thế hệ
+History: Lịch sử
+Imprint:  In, khắc
+Integrate: Tích hợp
+Invention: Phát minh
+Layer: Tầng, lớp
+Mainframe computer: Máy tính lớn
+Ability: Khả năng
+Access: Truy cập; sự truy cập
+Acoustic coupler: Bộ ghép âm
+Analyst: Nhà phân tích
+Centerpiece: Mảnh trung tâm
+Channel: Kênh
+Characteristic: Thuộc tính, nét tính cách
+Cluster controller: Bộ điều khiển trùm
+Consist (of): Bao gồm
+Convert: Chuyển đổi
+Equipment: Trang thiết bị
+Multiplexor: Bộ dồn kênh
+Network: Mạng
+Peripheral: Ngoại vi
+Reliability: Sự có thể tin cậy được
+Single-purpose: Đơn mục đích
+Teleconference: Hội thảo từ xa
+Multi-task: Đa nhiệm
+Arithmetic: Số học
+Alloy (n): Hợp kim
+Bubble memory (n): Bộ nhớ bọt
+Capacity (n): Dung lượng
+Core memory (n): Bộ nhớ lõi
+Dominate (v): Thống trị
+Ferrite ring (n): Vòng nhiễm từ
+Horizontal (a,n): Ngang, đường ngang
+Inspiration (n): Sự cảm hứng
+Intersection (n): Giao điểm
+Detailed: chi tiết
+Respective (a): Tương ứng
+Retain (v): Giữ lại, duy trì
+Gadget: đồ phụ tùng nhỏ
+Semiconductor memory (n): Bộ nhớ bán dẫn
+Unique (a): Duy nhất
+Vertical (a,n): Dọc; đường dọc
+Wire (n): Dây điện
+Matrix (n): Ma trận
+Microfilm (n): Vi phim
+Noticeable (a): Dễ nhận thấy
+Phenomenon (n): Hiện tượng
+Position (n): Vị trí
+Prediction (n): Sự tiên đoán, lời tiên đoán
+Quality (n): Chất lượng
+Quantity (n): Số lượng
+Ribbon (n): Dải băng
+Set (n): Tập
+Spin (v): Quay
+Strike (v): Đánh, đập
+Superb (a): Tuyệt vời, xuất sắc
+Supervisor (n): Người giám sát
+Thermal (a): Nhiệt
+Train (n): Đoàn tàu, dòng, dãy, chuỗi
+Translucent (a): Trong mờ
+Configuration: Cấu hình
+Implement: công cụ, phương tiện
+Disk: Đĩa
+Alternative (n): Sự thay thế
+Apt (v): Có khả năng, có khuynh hướng
+Beam (n): Chùm
+Chain (n): Chuỗi
+Clarify (v): Làm cho trong sáng dễ hiểu
+Coil (v,n): Cuộn
+Condense (v): Làm đặc lại, làm gọn lại
+Describe (v): Mô tả
+Dimension (n): Hướng
+Drum (n): Trống
+Electro sensitive (a): Nhiếm điện
+Electrostatic (a): Tĩnh điện
+Expose (v): Phơi bày, phô ra
+Guarantee (v,n): Cam đoan, bảo đảm
+Demagnetize (v) Khử từ hóa
+Intranet: mạng nội bộ
+Hammer (n): Búa
+Individual (a,n): Cá nhân, cá thể
+Inertia (n): Quán tính
+Irregularity (n): Sự bất thường, không theo quy tắc
+Establish (v): Thiết lập
+Permanent (a): Vĩnh viễn
+Diverse (a): Nhiều loại
+Sophisticated (a): Phức tạp
+Monochromatic (a): Đơn sắc
+Blink (v): Nhấp nháy
+Dual-density (n): Dày gấp đôi
+Shape (n): Hình dạng
+Curve (n): Đường cong
+Plotter (n): Thiết bị đánh dấu
+Tactile (a): Thuộc về xúc giác
+Virtual (a): Ảo
+Compatible: tương thích
+Protocol: Giao thức
+Database: cơ sở dữ liệu
+Circuit: Mạch
+Software: phần mềm
+Hardware: Phần cứng
+Multi-user: Đa người dùng
+Graphics: đồ họa
+Employ: thuê ai làm gì
+Oversee: quan sát
+Available: dùng được, có hiệu lực
+Drawback: trở ngại, hạn chế
+Research: nghiên cứu
+Enterprise: tập đoàn, công ty
+Perform: Tiến hành, thi hành
+Trend: Xu hướng
+Replace: thay thế
+Expertise: thành thạo, tinh thông
+Instruction: chỉ thị, chỉ dẫn
+Chief source of information: Nguồn thông tin chính.
+Operating system (n): hệ điều hành
+Broad classification: Phân loại tổng quát
+Union catalog: Mục lục liên hợp.
+PPP: Là chữ viết tắt của “Point-to-Point Protocol”. Đây là một giao thức kết nối Internet tin cậy thông qua Modem
+Source Code: Mã nguồn (của của file hay một chương trình nào đó)
+Cluster controller (n) Bộ điều khiển trùm
+Authority work: Công tác biên mục (tạo ra các điểm truy cập) đối với tên, tựa đề hay chủ đề; riêng đối với biên mục tên và nhan đề, quá trình này bao gồm xác định tất cả các tên hay tựa đề và liên kết các tên/tựa đề không được chọn với tên/tựa đề được chọn làm điểm truy dụng. Đôi khi quá trình này cũng bao gồm liên kết tên và tựa đề với nhau
+Alphanumeric data: Dữ liệu chữ số, dữ liệu cấu thành các chữ cái và bất kỳ chữ số từ 0 đến 9.
+Convenience convenience: thuận tiện
+FAQ (Frequently Asked Questions): các câu hỏi thường gặp, nó đưa ra những câu hỏi phổ biến nhất mà người dùng thường gặp sau đó có phần giải đáp cho các câu hỏi
+HTML (HyperText Markup Language): Ngôn ngữ đánh dấu được thiết kế ra để tạo nên các trang web với các mẩu thông tin được trình bày trên World Wide Web
+LAN (Local Area Network): Mạng máy tính nội bộ
+Network Administrator: Người quản trị thiên về phần cứng
+OSI: Open System Interconnection (mô hình chuẩn OSI)
+PPP (Point-to-Point Protocol): giao thức kết nối Internet tin cậy thông qua Modem
+RAM (Read-Only Memory): Bộ nhớ khả biến cho phép truy xuất đọc-ghi ngẫu nhiên đến bất kỳ vị trí nào trong bộ nhớ.

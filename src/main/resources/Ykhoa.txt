@@ -1,0 +1,224 @@
+Cosmetic Surgery dept: Khoa phẫu thuật thẩm mỹ
+Dermatology Dept: Khoa da liễu
+Diagnostic imaging department: Khoa chẩn đoán hình ảnh
+Ear – Nose – Throat Dept: Khoa tai – mũi – họng
+Endoscopy Dept: Khoa nội soi
+General Surgery Dept: Khoa ngoại tổng quát
+Immunology Dept: Khoa miễn dịch
+Hematology Dept: Khoa huyết học
+Mortuary: Nhà xác
+Nutrition Dept: Khoa dinh dưỡng
+Obstetrics & Gynaecology Dept: Khoa phụ sản
+Operation Theatre: Khoa phẫu thuật
+Oral and MaxilloFacial Dept: Khoa răng hàm mặt
+Oncology Dept: Khoa ung thư
+Ophthalmology Dept: Khoa mắt
+Pediatrics Dept: Khoa nhi
+Pharmacy Dept: Khoa dược
+Physical therapy Dept: Khoa vật lý trị liệu
+Trauma – Orthopedics Dept: Khoa chấn thương chỉnh hình
+Ambulance: Xe cấp cứu
+Band-aid: Băng cá nhân
+Bandage: Băng bó
+Blood bag: Túi máu
+Blood pressure monitor: Máy đo huyết áp
+Braces: Niềng răng
+Catheter: Ống thông
+Compression bandage: Băng gạc
+Cotton balls: Bông gòn
+Crutch: Nạng
+Defibrillator: Máy khử rung tim
+Dropper: Ống giỏ nhọt
+Electrocardiogram: Điện tâm đồ
+Examining table: Bàn khám bệnh
+First aid kit: Bộ sơ cứu
+Hearing aid: Máy trợ thính
+Infusion bottle: Bình truyền dịch
+Plaster: Băng dán
+Life support: Máy hỗ trợ thở
+Medical clamps: Kẹp y tế
+Microscope: Kính hiển vi
+Minor operation instrument set: Bộ dụng cụ tiểu phẫu
+Oxygen mask: Mặt nạ oxy
+Resuscitator: Máy hồi sức
+Rubber gloves: Đôi găng tay cao su
+Saline bag: Túi nước muối
+Scales: Cái cân
+Scalpel: Dao mổ
+Scissors: Cây kéo
+Sling: Băng đeo đỡ cánh tay
+Stethoscope: Ống nghe
+Stitch: Mũi khâu
+Stretcher: Băng ca
+Syringe: Ống tiêm
+Thermometer: Nhiệt kế
+Tweezers: Nhíp y tế
+Vial: Lọ thuốc
+Wheelchair: Xe lăn
+Aspirin: Thuốc giảm đau, hạ sốt
+Cough mixture: Thuốc ho dạng nước
+Emergency contraception: Thuốc tránh thai
+Indigestion: Thuốc đau dạ dày
+Sleeping tablets: Thuốc an thần
+Syrup: Si rô
+Vitamin pills: Vitamin bao gồm các nhóm chất tự nhiên có lợi cho sức khoẻ
+Admissions and discharge office: Phòng tiếp nhận bệnh nhân
+Central sterile supply department (CSSD): Phòng tiệt trùng
+Consulting room: Phòng khám
+Delivery room: Phòng sinh
+Dispensary: Phòng phát thuốc
+Housekeeping: Phòng tạp vụ
+Isolation ward: Phòng cách ly
+Laboratory: Phòng xét nghiệm
+Medical records department: Phòng lưu trữ hồ sơ bệnh án
+Preoperative Room: Phòng tiền phẫu
+Recovery Room: Phòng hậu phẫu
+Surgery Room: Phòng mổ
+Waiting room: Phòng chờ
+Allergy: Dị ứng
+Acne: Mụn trứng cá
+Asthma: Hen suyễn
+Backache: Đau lưng
+Black eyes: Thâm mắt
+Boil: Mụn nhọt
+Burn: Bỏng
+Broken leg: Gãy chân
+Bruise: Vết bầm tím
+Cancer: Ung thư
+Covid-19: Bệnh Covid
+Cold: Cảm lạnh
+Cough: Ho
+Chill: Cảm lạnh
+Chicken pox: Bệnh thuỷ đậu
+Constipation: Táo bón
+Depression: Trầm cảm
+Diarrhea: Tiêu chảy
+Diabetes: Bệnh tiểu đường
+Dizziness: Chóng mặt
+Earache: Đau tai
+Eating disorder: Rối loạn ăn uống
+Fever: Sốt
+Flu: Bệnh cúm
+Food poisoning: Ngộ độc thực phẩm
+Infected: Nhiễm trùng
+Inflamed: Bị viêm
+Insect bite: Côn trùng đốt
+Insomnia: Mất ngủ
+High blood pressure: Cao huyết áp
+Heart attack: Nhồi máu cơ tim
+Headache: Nhức đầu
+Hepatitis: Viêm gan
+Heartburn: Ợ chua
+Hypertension: Huyết áp cao
+Graze: Trầy xước da
+Low blood pressure: Huyết áp thấp
+Lump: U bướu
+Malaria: Sốt rét
+Measles: Bệnh sởi
+Mumps: Bệnh quai bị
+Migraine: Bệnh đau nửa đầu
+Nausea: Buồn nôn
+Paralysed: Bị liệt
+Pneumonia: Bệnh viêm phổi
+Rash: Phát ban
+Runny Nose: Sổ mũi
+Rheumatism: Bệnh thấp khớp
+Sinus pressure: Viêm xoang
+Skin-disease: Bệnh ngoài da
+Smallpox: Bệnh đậu mùa
+Sore throat: Đau họng
+Sore eyes: Đau mắt
+Sneeze: Hắt hơi
+Sprain: Bong gân
+Stomachache: Đau dạ dày
+Sunburn: Cháy nắng
+Swollen: Bị sưng
+Toothache: Đau răng
+To vomit: Bị nôn mửa
+Tuberculosis: Bệnh lao
+Abulia: Sự mất ý chí, nghị lực (thường là một triệu chứng của bệnh tâm thần phân liệt)
+Agnosia: Mất khả năng nhận thức
+Agraphia: Rối loạn ngôn ngữ
+Alexia: Chứng khó đọc
+Anomia: Chứng mất khả năng định danh
+Aphasia: Chứng mất ngôn ngữ
+Aphonia: Mất giọng
+Apraxia: Rối loạn động cơ
+Achromatopsia: Chứng mù màu
+Amblyopia: Chứng nhược thị
+Aqueous humor: Thuỷ dịch
+Astigmatism: Loạn thị
+Conjunctiva: Giải phẫu màng kết
+Conjunctivitis: Đau mắt đỏ (Viêm kết mạc)
+Cornea: Giác mạc
+Enucleation: Phẫu thuật cắt bỏ nhãn cầu
+Hyperopia: Viễn thị
+Intraocular lens: Thuỷ tinh thể nhân tạo
+Iritis: Viêm màng bồ đào
+Low vision: Suy giảm thị lực
+Myopia: Cận thị
+Night blindness: Chứng quáng gà
+Nyctalopia: Chứng quáng gà
+Ocular: Thị kính
+Pinkeye: Đau mắt đỏ
+Presbyopia: Lão thị
+Refraction: Khúc xạ
+Refractive error: Tật khúc xạ
+Retina: Võng mạc
+Retinitis pigmentosa: Viêm võng mạc sắc tố
+Sclera: Màng cứng
+Strabismus: Mắt lác
+Visual acuity: Thị lực
+Vitreous humor: Dịch thuỷ tinh
+Allergic rhinitis: Viêm mũi dị ứng
+Endoscopy: Nội soi
+Laryngopharyngeal Reflux: Trào ngược thanh quản
+Myringotomy: Rạch màng nhĩ
+Nasal septum: Vách ngăn mũi
+Rhinoplasty: Nâng mũi
+Rhinosinusitis: Viêm xoang mũi
+Septoplasty: Phẫu thuật chỉnh hình vách ngăn
+Sinusitis: Viêm xoang
+Tinnitus: Ù tai
+Asthma: Hen suyễn
+Bronchoscopy: Nội soi phế quản
+Chest drain: Dẫn lưu màng phổi
+Chronic obstructive pulmonary disease (COPD): Bệnh phổi tắc nghẽn mãn tính
+Lung cancer: Ung thư phổi
+Lung fibrosis: Xơ phổi
+Non-invasive ventilation: Thông khí không xâm nhập
+Pleural effusion: Tràn dịch màng phổi
+Pneumonia: Viêm phổi
+Pulmonary embolism: Tắc mạch phổi
+Pulmonary rehabilitation: Phục hồi chức năng hô hấp
+Sarcoidosis: Rối loạn phổi
+Tuberculosis (TB): Bệnh lao
+Anemia: Thiếu máu
+Appendectomy: Phẫu thuật cắt ruột thừa
+Appendicitis: Viêm ruột thừa cấp
+Barrett’s esophagus: Barrett thực quản
+Cirrhosis: Xơ gan
+Colonoscopy: Nội soi đại tràng
+Constipation: Táo bón
+Diverticulitis: Viêm túi thừa
+Indigestion: Khó tiêu
+Albinism: Bệnh bạch tạng
+Alopecia: Rụng tóc
+Atopic Dermatitis: Viêm da cơ địa
+Blemish: Mụn nước
+Blepheroplasty: Phẫu thuật mí mắt
+Cellulitis: Viêm mô tế bào
+Chemical Peels: Thay da sinh học
+Dermatitis: Viêm da
+Desquamation: Tróc vẩy
+Eczema: Bệnh chàm da
+Anterior Cruciate Ligament (ACL): Chấn thương đứt dây chằng chéo trước
+Bursitis: Viêm bao hoạt dịch
+Dislocation: Trật khớp
+Femur: Giải phẫu xương đùi
+Ganglion Cysts: U nang hạch
+Humerus: Giải phẫu xương cánh tay
+Ligaments: Dây chằng
+Prosthesis: Bộ phận giả (chân tay giả,…)
+Scoliosis: Vẹo cột sống
+Tendonitis: Viêm gân

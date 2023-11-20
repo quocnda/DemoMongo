@@ -1,0 +1,60 @@
+Resistor: Điện trở
+Capacitor: Tụ điện
+Inductor: Cuộn cảm
+Transistor: Transitor
+Diode: Điốt
+Integrated Circuit (IC): Mạch tích hợp
+Printed Circuit Board (PCB): Mạch in
+Semiconductor: Bán dẫn
+Voltage: Điện áp
+Current: Dòng điện
+Power: Công suất
+Circuit: Mạch điện
+Connector: Đầu nối
+Switch: Công tắc
+Relay: Rơle
+Transformer: Biến áp
+Oscillator: Dao động
+Sensor: Cảm biến
+Encoder: Bộ giải mã
+Decoder: Bộ mã hóa
+Screwdriver: Cờ lê
+Pliers: Kìm
+Wire stripper: Dụng cụ bóc dây điện
+Soldering iron: Bút hàn
+Multimeter: Đồng hồ đo đa năng
+Tweezers: Phiến nhíp
+Breadboard: Mạch thử
+Heat gun: Súng sấy nhiệt
+Desoldering pump: Bơm hút thiếc
+Oscilloscope: Máy hiện sóng
+Solder wire: Thiếc hàn
+Flux: Chất phụ gia hàn
+Insulation tape: Băng cách điện
+Crimping tool: Dụng cụ bấm đầu nối
+Power supply: Nguồn điện
+ESD mat: Thảm chống tĩnh điện
+Hot air rework station: Máy hàn bằng không nóng
+Magnifying glass: Lúp
+Anti-static wrist strap: Dây đeo tay chống tĩnh điện
+Chip extractor: Dụng cụ lấy chip
+Electronic circuit: Mạch điện tử
+Power supply unit (PSU): Đơn vị cung cấp điện
+Printed circuit board (PCB): Mạch in
+Integrated circuit (IC): Mạch tích hợp
+Surface Mount Technology (SMT): Công nghệ lắp bề mặt
+Through-hole technology (THT): Công nghệ lắp lỗ thông qua
+Digital signal processing (DSP): Xử lý tín hiệu số
+Analog-to-Digital Converter (ADC): Bộ chuyển đổi tương tự-số
+Digital-to-Analog Converter (DAC): Bộ chuyển đổi số-tương tự
+Field-Effect Transistor (FET): Transistor hiệu ứng trường
+Light Emitting Diode (LED): Đèn LED
+Radio Frequency (RF): Tần số vô tuyến
+Microcontroller Unit (MCU): Vi xử lý nhúng
+Voltage regulator: Bộ ổn áp điện áp
+Signal generator: Máy phát tín hiệu
+Electromagnetic interference (EMI): Nhiễu elektromagnetik
+Soldering station: Trạm hàn
+Circuit breaker: Cầu chì
+Antenna design: Thiết kế anten
+Battery charger: Bộ sạc pin
